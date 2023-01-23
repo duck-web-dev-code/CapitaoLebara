@@ -1,5 +1,4 @@
-  <img width="100%" src="https://firebasestorage.googleapis.com/v0/b/aea--pendencias-externas.appspot.com/o/images%2FAMP-Code-Fi-Girl-Coding-Lofi-Girl.gif?alt=media&token=6f590b35-ab83-42f6-8e3e-4c312d71b70d">
-
+<img src="https://camo.githubusercontent.com/2597bac0620b2dbaf653f9e0c48326253f5305a4f14febf0e4a71c56c3b1e47e/68747470733a2f2f63646e2e686173686e6f64652e636f6d2f7265732f686173686e6f64652f696d6167652f75706c6f61642f76313631353833393030333034382f5f4657334a666737722e676966"/>
 <h1 align="center">Olá 👋, sou Ikaro</h1>
 <h3 align="center">Desenvolvedor Front-end apaixonado por Programação</h3>
 
