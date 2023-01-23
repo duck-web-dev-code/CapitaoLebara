@@ -15,7 +15,7 @@
 
 <!-- linkedin -->
 <p align="esquerda">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/ikaro-de-assis-sousa-909406196/" target="blank">
+<a href="https://br.linkedin.com/in/ikaro-de-assis-sousa-909406196?trk=public_profile_browsemap&original_referer=https%3A%2F%2Fwww.google.com%2F" target="blank">
 <img align="center " src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" 
   width="120" height="30" />
 </a>
