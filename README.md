@@ -50,9 +50,6 @@
  <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" width="50" height="50"/></a>
  <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/5307958/38454395-eba34a8a-3a90-11e8-9c95-680a7aea037f.png"  height="50"/></a>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=capitaolebara&show_icons=true&locale=en&layout=compact" alt="capitaolebara" /> </p>
 
-<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=capitaolebara&show_icons=true&locale=en" alt="capitaolebara" /> </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=capitaolebara&" alt="capitaolebara" /></p>
-
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=capitaolebara&show_icons=true&locale=en" alt="capitaolebara" /> </p><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=capitaolebara&" alt="capitaolebara" /></p><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=capitaolebara&show_icons=true&locale=en&layout=compact" alt="capitaolebara" /> </p>
