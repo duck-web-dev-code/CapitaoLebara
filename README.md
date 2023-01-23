@@ -1,4 +1,4 @@
-  <img width="100%" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1615839003048/_FW3Jfg7r.gif">
+  <img width="100%" src="https://firebasestorage.googleapis.com/v0/b/aea--pendencias-externas.appspot.com/o/images%2FAMP-Code-Fi-Girl-Coding-Lofi-Girl.gif?alt=media&token=6f590b35-ab83-42f6-8e3e-4c312d71b70d">
 
 <h1 align="center">Olá 👋, sou Ikaro</h1>
 <h3 align="center">Desenvolvedor Front-end apaixonado por Programação</h3>
