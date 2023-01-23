@@ -42,12 +42,9 @@
   <a href="https://reactnative.dev/" target=" _blank" rel="noreferrer"> <img src="https://camo.githubusercontent.com/86ce870479afdbfa7075d5b25bff8642dd4894a061c920ea9a49d3f77c74b55b/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d7265616374" alt="reactnative" width="40" height="46"/> </a>
     <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://camo.githubusercontent.com/15d91b1526dc4bc7312db29b376075f09479855c802b57d730a764847ee497c1/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6e6f64656a73" alt="nodejs" width="40" height="40"/> </a>
  <a href="https://firebase.google.com/" target=" _blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
- <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://camo.githubusercontent.com/92a295910076b8f4b5baa465654123887e2179e74a00b91713a0122919cb7e13/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d65787072657373" alt="express" width="40" height="40"/> </a> 
+ <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://camo.githubusercontent.com/92a295910076b8f4b5baa465654123887e2179e74a00b91713a0122919cb7e13/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d65787072657373" alt="express" width="40" height="40"/> </a> <a href="" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="express" width="40" height="40"/> </a>
  <a href="" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="express" width="40" height="40"/> </a>
-  <a href="" target="_blank" rel="noreferrer"> <img src="https://camo.githubusercontent.com/9cb5410fe7961b1eb2f6659189fecd4f1dcb86c26937e561e712cd819fd6c579/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d76697465" alt="vire" width="40" height="40"/> </a>
-
-  
- <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" width="50" height="50"/></a>
+  <a href="" target="_blank" rel="noreferrer"> <img src="https://camo.githubusercontent.com/9cb5410fe7961b1eb2f6659189fecd4f1dcb86c26937e561e712cd819fd6c579/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d76697465" alt="vire" width="40" height="40"/> </a><a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" width="50" height="50"/></a>
  <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/5307958/38454395-eba34a8a-3a90-11e8-9c95-680a7aea037f.png"  height="50"/></a>
 
 
