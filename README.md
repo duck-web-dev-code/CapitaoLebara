@@ -44,6 +44,8 @@
 * Linguagem
    
  <img src="https://camo.githubusercontent.com/a4199191bff0e00930a78bbcd5f4257c4db4efc3d4bf3b19ca16041751b4c1be/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6a73" alt="javascript"  height="40"/> <img src="https://camo.githubusercontent.com/6f95f82ca5c1070b62cc44c815f3ae6c581158e41ac5812e70f72babcb590206/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d7473" alt="typescript" width="40" height="40"/>
+ <img src="https://raw.githubusercontent.com/CapitaoLebara/skill-icons/main/icons/Dart-Dark.svg" alt="typescript" width="40" height="40"/>
+ 
   
 * Desktop
   
