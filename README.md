@@ -1,14 +1,19 @@
 <img src="https://camo.githubusercontent.com/2597bac0620b2dbaf653f9e0c48326253f5305a4f14febf0e4a71c56c3b1e47e/68747470733a2f2f63646e2e686173686e6f64652e636f6d2f7265732f686173686e6f64652f696d6167652f75706c6f61642f76313631353833393030333034382f5f4657334a666737722e676966"/>
 
 <h1 align="center">Olá 👋, sou Ikaro</h1>
+
+
+<br/>
+<div align="center">
+  <img src="https://visitor-badge.feriirawann.repl.co/?username=capitaolebara&repo=capitaolebara&style=for-the-badge&label=Visitors&logo=OpenTelemetry&color=527BBF&contentType=svg" alt="capitaolebara Github Profile Visitors Counter" height="40px" />
+</div>
+<hr/>
+
+
+<img align="center" src="./main/about me.png" width="100%" height="0%" alt="About Me Section Title" />
+
+
 <h3 align="center">Desenvolvedor Front-end apaixonado por Programação</h3>
-
-<p align="left"> <img src= "https://komarev.com/ghpvc/?username=capitaolebara&label=Profile%20views&color=0e75b6&style=flat" alt="capitaolebara" /> </p>
-
-<img align="center" src="./main/aboute me.png" width="100%" height="0%" alt="About Me Section Title" />
-
-
-
 - 👨‍💻 Todos os meus projetos estão disponíveis em [Portifolio](link)
 
 - 📫 Como chegar até mim **ikaroassis08@gmail.com**
