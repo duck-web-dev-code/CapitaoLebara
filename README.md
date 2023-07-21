@@ -33,7 +33,7 @@
 
 <img align="center" src="./main/my stack.png" width="100%" alt="My Stack Section Title" />
 
-<img align="left" height="380px" src="./code.gif" />
+<img align="left" height="300px" src="./code.gif" />
 
 <table align="right" height="380px">
   <tr>
