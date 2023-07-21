@@ -10,7 +10,7 @@
 <hr/>
 
 
-<img align="center" src="./main/about me.png" width="100%" height="0%" alt="About Me Section Title" />
+<img align="center" src="./main/ABOUT ME.png" width="100%" height="0%" alt="About Me Section Title" />
 
 
 <h3 align="center">Desenvolvedor Front-end apaixonado por Programação</h3>
