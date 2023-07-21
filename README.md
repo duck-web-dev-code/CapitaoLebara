@@ -11,9 +11,6 @@
 
 <img align="center" src="./main/ABOUT ME(1).png" width="100%" alt="About Me Section Title" />
 
-
-
-
 <img align="right" src="./about cat.gif" border="2" width="380px" height="294px" />
 <ul>
   <li>🤩️Apaixonado por Programação, Filme e Música.</li>
@@ -30,7 +27,6 @@
     </details>
   </li>
 </ul>
-
 
 
 <br/><br/><br/><br/><br/>
@@ -203,11 +199,40 @@
 
 
 
-<br/><br/><br/><br/><br/><br/>
+<br/><br/><br/><br/>
 
-<br/><br/><br/><br/><br/><br/>
-<br/><br/><br/><br/><br/><br/>
+<hr/>
 
+<img align="center" src="./main/contato.png" width="100%" alt="Contact Section Title" />
+
+<img align="right" width="185px" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXRpMWl6YmdvYzRyemZwdXo1aGtrdHdwa2xlbnI4b2l3ZHBpbnF2MCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" alt="Girl working with programming"/>
+<br/><br/>
+
+<p align="center">
+  <a href="https://www.canva.com/design/DAFSw49nC14/CDdcLsJ4a-uwMAWG_cq4zQ/view?utm_content=DAFSw49nC14&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink" target="_blank">
+    <img src="./components/icons/en/cv.png" alt="Curriculum badge" height="30px" />
+    &nbsp;
+  </a>
+  <a href="mailto:luk4xm4ci3l@gmail.com" target="_blank">
+    <img src="./components/icons/gmail.png" alt="Gmail badge" height="30px" />
+    &nbsp;
+  </a>
+  <a href="https://www.linkedin.com/in/lucasmacielf/" target="_blank">
+    <img src="./components/icons/linkedin.png" alt="LinkedIn badge" height="30px" />
+    &nbsp;
+  </a>
+  
+  <a href="https://wa.me/5522996112570?text=Yo,%20Luk4x!%20Vim%20pelo%20seu%20Github!" target="_blank">
+    <img src="./components/icons/whatsapp.png" alt="Whatsapp badge" height="30px" />
+    &nbsp;
+  </a>
+  <a href="https://www.instagram.com/lu_k4x/" target="_blank">
+    <img src="./components/icons/instagram.png" alt="Instagram badge" height="30px" />
+    &nbsp;
+  </a>
+</p>
+<br/>
+<hr/>
 
 
 
