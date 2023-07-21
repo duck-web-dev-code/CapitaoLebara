@@ -7,7 +7,6 @@
 <div align="center">
   <img src="https://visitor-badge.feriirawann.repl.co/?username=capitaolebara&repo=capitaolebara&style=for-the-badge&label=Visitors&logo=OpenTelemetry&color=527BBF&contentType=svg" alt="capitaolebara Github Profile Visitors Counter" height="40px" />
 </div>
-<hr/>
 
 <img align="center" src="./main/ABOUT ME(1).png" width="100%" alt="About Me Section Title" />
 
@@ -33,7 +32,7 @@
 
 <img align="center" src="./main/my stack.png" width="100%" alt="My Stack Section Title" />
 
-<img align="left" height="300px" src="./code.gif" />
+<img align="left" height="260px" src="./code.gif" />
 
 <table align="right" height="380px">
   <tr>
