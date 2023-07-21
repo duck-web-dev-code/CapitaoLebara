@@ -35,9 +35,11 @@
 
 <br/><br/><br/><br/><br/><br/>
 
+<img align="center" src="./components/titles/en/stack.png" width="100%" alt="My Stack Section Title" />
 
+<img align="left" height="380px" src="./code.gif" />
 
-<table align="right" height="350px">
+<table align="right" height="380px">
   <tr>
     <td align="center">
       <a href="https://pt-br.reactjs.org/">
@@ -344,9 +346,14 @@
 
 
 
-
+<br/><br/><br/><br/><br/><br/>
 
 <br/><br/><br/><br/><br/><br/>
+<br/><br/><br/><br/><br/><br/>
+
+
+
+
 
 <h3 align="center">Desenvolvedor Front-end apaixonado por Programação</h3>
 - 👨‍💻 Todos os meus projetos estão disponíveis em [Portifolio](link)
