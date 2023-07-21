@@ -5,6 +5,9 @@
 
 <p align="left"> <img src= "https://komarev.com/ghpvc/?username=capitaolebara&label=Profile%20views&color=0e75b6&style=flat" alt="capitaolebara" /> </p>
 
+<img align="center" src="./main/aboute me.png" width="100%" height="0%" alt="About Me Section Title" />
+
+
 
 - 👨‍💻 Todos os meus projetos estão disponíveis em [Portifolio](link)
 
